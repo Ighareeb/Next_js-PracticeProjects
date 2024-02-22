@@ -1,0 +1,9 @@
+STARTED WEATHER APP - installed nextjs and dependencies and tailwind setup
+https://tailwindcss.com/docs/installation/using-postcss
+npm i axios clsx date-fns jotai react-icons react-query tailwind-merge
+(clsx applying classnames conditionally)(jotai = simple state management)
+removed defaults from page.tsx, global.css
+created src/components folder
+started working on --> src/NavBar.tsx (and added it to root page.tsx) 
+added app/atom.ts
+completed layout.tsx file adding react-query provider
